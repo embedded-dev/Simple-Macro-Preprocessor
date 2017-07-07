@@ -1,0 +1,7 @@
+{
+  "wifi_password": "a1b2c3d4",
+  "mqtt_port": "1883",
+  "wifi_ssid": "private",
+  "mqtt_topic": "home/sensor",
+  "mqtt_server": "localhost"
+}
